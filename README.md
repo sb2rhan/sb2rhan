@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Node.JS
+- 🌱 I’m currently learning .NET
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about Python/Django, JS, Java.
 - 😄 Pronouns: He/him/his
