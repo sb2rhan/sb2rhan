@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Laravel/PHP
+- 🌱 I’m currently learning Microsoft Azure
 - 👯 I’m always ready for collaboration on interesting projects.
-- 💬 Ask me about Python/Django, JS, Java, C#
+- 💬 Ask me about Python/Django, JS, Java & Android, C#, PHP, Angular
 <!--
 **sb2rhan/sb2rhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
