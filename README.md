@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Microsoft Azure
+- 🌱 I’m currently learning Blockchain and Web 3.0 Development
 - 👯 I’m always ready for collaboration on interesting projects.
-- 💬 Ask me about Python/Django, JS, Java & Android, C#, PHP, Angular
+- ⚡ Worked with Python/Django, JS, Java & Android, C#, Angular, and Microsoft Azure.
 <!--
 **sb2rhan/sb2rhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
