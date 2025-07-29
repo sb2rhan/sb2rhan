@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Blockchain and Web 3.0 Development
+- 🌱 I’m currently learning Machine Learning and Next.js
 - 👯 I’m always ready for collaboration on interesting projects.
-- ⚡ Worked with Python/Django, JS, Java & Android, C#, Angular, and Microsoft Azure.
+- ⚡ Worked with Python (Django), JavaScript/TypeScript (React, Angular), Java, C# (ASP.NET).
 <!--
 **sb2rhan/sb2rhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
